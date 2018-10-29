@@ -76,10 +76,3 @@ while True: # START THE PROGRAM
             else:
                 print('Ok, try again!')
 
-
-
-
-
-
-#print(fNB)
-#print(fN)
